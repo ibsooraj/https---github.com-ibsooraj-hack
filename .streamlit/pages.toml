@@ -1,0 +1,20 @@
+[[pages]]
+path = "Pages/1_Overview.py"
+name = "Profit Sentinel"
+
+
+[[pages]]
+path = "Pages/2_DataUpload.py"
+name = "Upload Customer Data"
+icon=":page_with_curl:"
+
+
+[[pages]]
+path = "Pages/3_ModelExecution.py"
+name = "Execute Model"
+icon=":shield:"
+
+[[pages]]
+path = "Pages/4_Results.py"
+name = "Insights & Reports"
+icon=":chart_with_upwards_trend:"
